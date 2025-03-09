@@ -29,9 +29,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-![image](https://github.com/user-attachments/assets/ceb9ae96-7090-4432-8045-b14f797b3392)</a>
-
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 ### Connect with Me :
 
