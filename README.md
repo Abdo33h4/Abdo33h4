@@ -15,6 +15,10 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white"/>
+</a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,9 +32,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white"/>
-</a>
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/abdelrhman-yasser-73b5412b5" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Yasser-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
