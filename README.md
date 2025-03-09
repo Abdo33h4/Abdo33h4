@@ -39,7 +39,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000
+![image](https://github.com/user-attachments/assets/1a2c59c7-53ef-4ced-943f-fa0f0665a153)
+
 
 
 
