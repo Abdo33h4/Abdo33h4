@@ -30,8 +30,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white"/>
-</a>
+![image](https://github.com/user-attachments/assets/ceb9ae96-7090-4432-8045-b14f797b3392)</a>
+
+
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/abdelrhman-yasser-73b5412b5" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Yasser-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
