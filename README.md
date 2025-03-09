@@ -31,9 +31,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdelrhman-yasser-73b5412b5" target="_blank">
-  <img src="https://img.shields.io/badge/-Abdelrhman%20Yasser-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
+<a href="www.linkedin.com/in/abdelrhman-yasser-73b5412b5" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Yasser-0077B5?style=![image](https://github.com/user-attachments/assets/8cb51532-a6cb-4f3c-ba4e-e88f45864c53)
+"/></a>
 
 <a href="https://www.facebook.com/abdelrhman.yasser.5494" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Yasser-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
